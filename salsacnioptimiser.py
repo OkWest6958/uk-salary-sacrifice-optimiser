@@ -155,12 +155,12 @@ schedule_df = pd.DataFrame(
         "Gross Base Salary": base_monthly_salary,
         "Minimum Wage": min_wage_monthly,
         "Required Salary Sacrifice": employee_contribution_monthly,
-        "Voluntary Salary Sacrifice": np.NaN,
-        "Required Total Employee Pension Contribution": np.NaN,
-        "Revised Gross Salary": np.NaN,
-        "Projected Yearly Income": np.NaN,
-        "Income Tax": np.NaN,
-        "National Insurance": np.NaN
+        "Voluntary Salary Sacrifice": np.nan,
+        "Required Total Employee Pension Contribution": np.nan,
+        "Revised Gross Salary": np.nan,
+        "Projected Yearly Income": np.nan,
+        "Income Tax": np.nan,
+        "National Insurance": np.nan
     }
 )
 
